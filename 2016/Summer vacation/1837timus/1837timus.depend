@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1472521599 source:c:\users\user\desktop\pbinfodailyproj\1837timus\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<cstring>
+	<cstdio>
+
